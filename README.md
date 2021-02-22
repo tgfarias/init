@@ -2,6 +2,7 @@
 
 :dart: Meus estudos e interesses:
 - Java / Spring Boot
+- PHP / CodeIgniter / Laravel
 - ReactJS / React Native
 - Dart / Flutter
 
